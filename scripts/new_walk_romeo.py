@@ -62,6 +62,6 @@ print('example : pg.pg.velocitydes.value =(0.1,0.0,0.0)\n')
 
 robot.pg.velocitydes.value =(0.1,0.0,0.0)
 
-# go()
+go()
 
 
